@@ -4,7 +4,7 @@ This is a very simple program to launch Rappelz client without using the officia
 
 ---
 
-You can download a precompiled executable from the [Releases]([https://github.com/Aodai/rappelz-golang-launcher/releases](https://github.com/Aodai/rappelz-golang-launcher/releases) page or build the executable yourself by cloning the repository and running the appropriate command to build the executable.
+You can download a precompiled executable from the [Releases](https://github.com/Aodai/rappelz-golang-launcher/releases) page or build the executable yourself by cloning the repository and running the appropriate command to build the executable.
 
 ## Launcher Configuration
 
